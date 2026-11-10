@@ -1,0 +1,22 @@
+{
+  "name": "NewtonsApple",
+  "short_name": "NewtonsApple",
+  "description": "Yapay zeka destekli kişiselleştirilmiş matematik öğrenme platformu.",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E3A32",
+  "theme_color": "#FCFBF6",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
